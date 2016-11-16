@@ -4,4 +4,4 @@ The plan is to recreate the google homepage using html and css—I'm not worryin
 
 If successful, the page will closely resemble google, at least in terms of layout. More importantly, I'll have become much more proficient with HTML and CSS, and I'll have proved it.
 
-The next stop will be javascript and ruby.
+The next step will be javascript and ruby.
