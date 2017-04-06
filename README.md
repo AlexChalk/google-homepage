@@ -1,7 +1,15 @@
-This is my first attempt at constructing a proper webpage.
+# Google Homepage
 
-The plan is to recreate the google homepage using html and css—I'm not worrying about javascript (or the back end).
+This is my first real attempt with HTML and CSS—a clone of the google homepage. 
 
-If successful, the page will closely resemble google, at least in terms of layout. More importantly, I'll have become much more proficient with HTML and CSS, and I'll have proved it.
+The project aims to closely resemble google, at least in terms of layout. 
 
-The next step will be javascript and ruby.
+## Installation
+
+This is a web-based project, so no installation is necessary. But to experiment with your own copy of the code, you can use the following:
+
+`git clone path-to-your-repo`
+
+## Usage
+
+If you want to try out my finished project online, it is hosted [here](https://adc17.github.io/google-homepage/) on github.io.
